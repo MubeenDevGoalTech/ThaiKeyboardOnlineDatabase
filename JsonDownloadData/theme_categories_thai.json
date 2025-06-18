@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "ทั้งหมด",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "มาตรฐาน",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "ทั่วโลก",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "น่ารัก",
+      "url": "https://example.com/hot"
+    },
+    {
+      "name": "นีออน",
+      "url": "https://example.com/hot"
+    },
+    {
+      "name": "สัตว์",
+      "url": "https://example.com/hot"
+    }
+  ]
+}
