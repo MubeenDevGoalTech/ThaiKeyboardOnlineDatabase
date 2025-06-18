@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "All",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "Standard",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "Global",
+      "url": "https://example.com/static"
+    },
+    {
+      "name": "Cute",
+      "url": "https://example.com/hot"
+    },
+    {
+      "name": "Neon",
+      "url": "https://example.com/hot"
+    },
+    {
+      "name": "Animal",
+      "url": "https://example.com/hot"
+    }
+  ]
+}
