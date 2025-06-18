@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Cars"
+    },
+    {
+      "id": 2,
+      "title": "Nature"
+    },
+    {
+      "id": 3,
+      "title": "Love"
+    },
+    {
+      "id": 4,
+      "title": "Sports"
+    },
+    {
+      "id": 5,
+      "title": "Tech"
+    },
+    {
+      "id": 6,
+      "title": "Christmas"
+    }
+
+  ]
+}
