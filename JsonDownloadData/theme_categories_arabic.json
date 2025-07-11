@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "الكل",
+      "url": "All"
+    },
+    {
+      "name": "قياسي",
+      "url": "Standard"
+    },
+    {
+      "name": "عالمي",
+      "url": "Global"
+    },
+    {
+      "name": "لطيف",
+      "url": "Cute"
+    },
+    {
+      "name": "نيون",
+      "url": "Neon"
+    },
+    {
+      "name": "حيوانات",
+      "url": "Animals"
+    }
+  ]
+}
