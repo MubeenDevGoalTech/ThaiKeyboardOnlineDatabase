@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": 7,
+      "title": "كيبوب",
+      "title_en": "K-Pop",
+      "url_link": "k_pop.json"
+    },
+    {
+      "id": 10,
+      "title": "حيوانات",
+      "title_en": "Animals",
+      "url_link": "animalsLove.json"
+    },
+    {
+      "id": 11,
+      "title": "مضحك",
+      "title_en": "Funny",
+      "url_link": "Funny.json"
+    },
+    {
+      "id": 12,
+      "title": "أبطال خارقون",
+      "title_en": "Superheroes",
+      "url_link": "Super_hero.json"
+    },
+    {
+      "id": 7,
+      "title": "فن",
+      "title_en": "Arts",
+      "url_link": "ArtsTheme.json"
+    },
+    {
+      "id": 8,
+      "title": "ألعاب",
+      "title_en": "Games",
+      "url_link": "GameTheme.json"
+    },
+    {
+      "id": 9,
+      "title": "أنمي",
+      "title_en": "Anime",
+      "url_link": "AnimeTheme.json"
+    },
+    {
+      "id": 11,
+      "title": "مشاهير",
+      "title_en": "Celebrities",
+      "url_link": "CelebritiesTheme.json"
+    },
+    {
+      "id": 1,
+      "title": "سيارات",
+      "title_en": "Cars",
+      "url_link": "CarsTheme.json"
+    },
+    {
+      "id": 2,
+      "title": "طبيعة",
+      "title_en": "Nature",
+      "url_link": "NatureTheme.json"
+    },
+    {
+      "id": 3,
+      "title": "حب",
+      "title_en": "Love",
+      "url_link": "LoveTheme.json"
+    },
+    {
+      "id": 4,
+      "title": "رياضة",
+      "title_en": "Sports",
+      "url_link": "SportsTheme.json"
+    },
+    {
+      "id": 5,
+      "title": "تكنولوجيا",
+      "title_en": "Technology",
+      "url_link": "TechTheme.json"
+    },
+    {
+      "id": 6,
+      "title": "عيد الميلاد",
+      "title_en": "Christmas",
+      "url_link": "ChristmasTheme.json"
+    }
+  ]
+}
