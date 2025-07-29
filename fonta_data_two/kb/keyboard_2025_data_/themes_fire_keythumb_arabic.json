@@ -41,6 +41,7 @@
       "theme_type": "حيوانات",
       "theme_type_en": "Animals"
     }
+    ,
     {
       "theme_id": 123,
       "theme_name": "kb/keyboard_2025_data_/keythumb/thumbkey_t76.png",
@@ -105,7 +106,7 @@
       "theme_type": "لطيف",
       "theme_type_en": "Cute"
     },
-    ,
+    
     {
       "theme_id": 123,
       "theme_name": "kb/keyboard_2025_data_/keythumb/arabic_exis_keys/thumbkey_t91.png",
@@ -131,7 +132,7 @@
       "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/arabic_exis_thumbnail/thumbnail_89.png",
       "theme_type": "لطيف",
       "theme_type_en": "Cute"
-    }
+    },
     {
       "theme_id": 123,
       "theme_name": "kb/keyboard_2025_data_/keythumb/thumbkey_t6.png",
