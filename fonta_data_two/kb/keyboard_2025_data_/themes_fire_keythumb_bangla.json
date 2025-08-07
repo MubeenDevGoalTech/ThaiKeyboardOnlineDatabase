@@ -26,17 +26,17 @@
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t87.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_panda.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_87.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t87.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_panda.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_87.png",
       "theme_type": "जनावरहरू",
       "theme_type_en": "Animals"
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t88.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_cat.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_88.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t88.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_cat.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_88.png",
       "theme_type": "जनावरहरू",
       "theme_type_en": "Animals"
     },
@@ -106,35 +106,43 @@
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t91.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_butterfly.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_91.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t91.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_butterfly.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_91.png",
       "theme_type": "न्यानो",
       "theme_type_en": "Cute"
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t90.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_boba.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_90.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t90.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_boba.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_90.png",
       "theme_type": "न्यानो",
       "theme_type_en": "Cute"
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t89.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_redheart.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_89.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t89.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_redheart.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_89.png",
       "theme_type": "न्यानो",
       "theme_type_en": "Cute"
     },
     {
       "theme_id": 123,
-      "theme_name": "kb/keyboard_2025_data_/keythumb/nepali_exis_keys/thumbkey_t92.png",
-      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/nepali_keyboard_exis/nepali_keyboard_rabbit.zip",
-      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/nepali_exis_thumbnail/thumbnail_92.png",
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t92.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_rabbit.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_92.png",
       "theme_type": "न्यानो",
       "theme_type_en": "Cute"
+    },
+     {
+      "theme_id": 123,
+      "theme_name": "kb/keyboard_2025_data_/keythumb/bangla_exis_keys/thumbkey_t93.png",
+      "theme_zip_link": "kb/keyboard_2025_data_/keys_zips/bangla_keyboard_exis/bangla_keyboard_play.zip",
+      "theme_thumbnail": "kb/keyboard_2025_data_/thumbnails/bangla_exis_thumbnail/thumbnail_93.png",
+      "theme_type": "वैश्विक",
+      "theme_type_en": "Global"
     },
     {
       "theme_id": 123,
@@ -210,6 +218,7 @@
     }
   ]
 }
+
 
 
 
