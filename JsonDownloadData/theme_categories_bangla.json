@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "সব",
+      "url": "All"
+    },
+    {
+      "name": "মানক",
+      "url": "Standard"
+    },
+    {
+      "name": "গ্লোবাল",
+      "url": "Global"
+    },
+    {
+      "name": "কিউট",
+      "url": "Cute"
+    },
+    {
+      "name": "নিয়ন",
+      "url": "Neon"
+    },
+    {
+      "name": "প্রাণী",
+      "url": "Animals"
+    }
+  ]
+}
